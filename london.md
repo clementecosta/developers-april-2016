@@ -5,3 +5,5 @@
 
 ### Things to do
 - bar
+
+### Best places to stay
